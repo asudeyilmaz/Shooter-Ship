@@ -1,0 +1,11 @@
+# Tüm metin dosyalarını otomatik algıla ve normalleştir
+* text=auto
+
+# Kaynak kod dosyalarının GitHub'a giderken LF olmasını zorunlu kıl
+*.cs text eol=lf
+*.sql text eol=lf
+*.js text eol=lf
+*.jsx text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.json text eol=lf
